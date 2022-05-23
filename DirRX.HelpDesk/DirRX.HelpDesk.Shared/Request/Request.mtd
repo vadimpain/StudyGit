@@ -74,6 +74,14 @@
       "Code": "Property1",
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
       "PreviousPropertyGuid": "08eadf40-2e99-40ca-963c-216d19846553"
+    },
+    {
+      "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "babf08bb-3b5c-48c2-9bae-4f6c513b63c9",
+      "Name": "Index",
+      "Code": "Index",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
+      "PreviousPropertyGuid": "9250337e-22e7-409d-b180-a41c78682988"
     }
   ],
   "PublicStructures": [],

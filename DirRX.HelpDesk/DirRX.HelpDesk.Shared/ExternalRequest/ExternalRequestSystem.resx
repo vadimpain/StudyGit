@@ -58,16 +58,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Name</value>
+  <data name="Property_Property2" xml:space="preserve">
+    <value>Property2</value>
   </data>
-  <data name="Property_Property" xml:space="preserve">
-    <value>Property</value>
-  </data>
-  <data name="Property_Property1" xml:space="preserve">
-    <value>Property</value>
-  </data>
-  <data name="Property_Index" xml:space="preserve">
-    <value>Index</value>
+  <data name="Property_Property3" xml:space="preserve">
+    <value>Property2</value>
   </data>
 </root>
